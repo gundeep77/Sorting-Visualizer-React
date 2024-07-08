@@ -20,6 +20,14 @@ html, body {
   color: #FF5252;
 }
 
+footer {
+  bottom: 20px !important;
+  margin-top: auto;
+  text-align: center;
+  position: relative;
+  color: chocolate;
+}
+
 
 
 
